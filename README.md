@@ -1,0 +1,2 @@
+# fitst
+first write codes
